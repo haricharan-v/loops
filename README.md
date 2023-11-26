@@ -38,11 +38,6 @@ Output:
 Please enter a non-negative integer, or an integer less than 20.
 ```
 
-## GitHub
-This script is GitHub-friendly. You can include it in your repository and use it as part of your project. When sharing this script, it's recommended to include a reference to this README file for users to understand how to use the script.
-
 ## Notes
 - Ensure that you have Python installed on your machine to run this script.
 - The script expects a valid non-negative integer as input. It does not handle non-integer or negative inputs.
-
-Feel free to modify the script to suit your needs or incorporate it into a larger project. If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
